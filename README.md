@@ -21,7 +21,7 @@ Database: SQL Server
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Student-Management-System.git
+git clone https://github.com/saurabh74849/StudentManagementSystem.git
 Open the project in Visual Studio
 Restore NuGet packages
 Update database connection string in:
